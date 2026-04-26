@@ -53,4 +53,4 @@ The dashboard delivers the following key insights:
 ---
 
 ### 6. Screenshot
-![Dashboard preview](https://github.com/sanikasatavi/Employee-Wellbeing/blob/main/emp-dash.png)
+![Dashboard preview](https://github.com/sanikasatavi/Employee-dashboard/blob/main/emp-dash.png)
